@@ -29,7 +29,7 @@ a {
     margin-right: 40px;
 }
 
-p, h1{
+p, h1, h2{
     margin: 0;
 }
 
@@ -44,11 +44,7 @@ a:last-child{
 }
 
 
-button{
-    /* background-color: transparent;
-    border: none; */
-    /* margin-left: 500px; */
-}
+
 
 .nav_btn{
     margin-right: 136px;
@@ -82,5 +78,10 @@ justify-items: stretch;}
     justify-content: center;
     color: #DB3138;
     padding: 50px 124px 50px 124px ;
+}
+
+.our-achievements{
+        height: 770px;
+        background-color: #1E1E1E;
 }
 
